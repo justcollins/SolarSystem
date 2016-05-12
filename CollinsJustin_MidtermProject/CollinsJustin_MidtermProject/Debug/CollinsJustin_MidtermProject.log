@@ -1,0 +1,242 @@
+﻿  Reshape.cpp
+  render_planet.cpp
+d:\aica_sf\quarter14\portfolio\reel\games\collinsjustin_finalv4\collinsjustin_midtermproject\collinsjustin_midtermproject\render_planet.cpp(23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\aica_sf\quarter14\portfolio\reel\games\collinsjustin_finalv4\collinsjustin_midtermproject\collinsjustin_midtermproject\render_planet.cpp(25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Planets.cpp
+d:\aica_sf\quarter14\portfolio\reel\games\collinsjustin_finalv4\collinsjustin_midtermproject\collinsjustin_midtermproject\planets.cpp(7): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+d:\aica_sf\quarter14\portfolio\reel\games\collinsjustin_finalv4\collinsjustin_midtermproject\collinsjustin_midtermproject\planets.cpp(7): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+d:\aica_sf\quarter14\portfolio\reel\games\collinsjustin_finalv4\collinsjustin_midtermproject\collinsjustin_midtermproject\planets.cpp(16): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+d:\aica_sf\quarter14\portfolio\reel\games\collinsjustin_finalv4\collinsjustin_midtermproject\collinsjustin_midtermproject\planets.cpp(16): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+d:\aica_sf\quarter14\portfolio\reel\games\collinsjustin_finalv4\collinsjustin_midtermproject\collinsjustin_midtermproject\planets.cpp(112): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\aica_sf\quarter14\portfolio\reel\games\collinsjustin_finalv4\collinsjustin_midtermproject\collinsjustin_midtermproject\planets.cpp(131): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\aica_sf\quarter14\portfolio\reel\games\collinsjustin_finalv4\collinsjustin_midtermproject\collinsjustin_midtermproject\planets.cpp(164): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\aica_sf\quarter14\portfolio\reel\games\collinsjustin_finalv4\collinsjustin_midtermproject\collinsjustin_midtermproject\planets.cpp(175): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\aica_sf\quarter14\portfolio\reel\games\collinsjustin_finalv4\collinsjustin_midtermproject\collinsjustin_midtermproject\planets.cpp(195): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\aica_sf\quarter14\portfolio\reel\games\collinsjustin_finalv4\collinsjustin_midtermproject\collinsjustin_midtermproject\planets.cpp(212): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  mySphere.cpp
+d:\aica_sf\quarter14\portfolio\reel\games\collinsjustin_finalv4\collinsjustin_midtermproject\collinsjustin_midtermproject\mysphere.cpp(19): warning C4305: '=': truncation from 'double' to 'float'
+d:\aica_sf\quarter14\portfolio\reel\games\collinsjustin_finalv4\collinsjustin_midtermproject\collinsjustin_midtermproject\mysphere.cpp(20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\aica_sf\quarter14\portfolio\reel\games\collinsjustin_finalv4\collinsjustin_midtermproject\collinsjustin_midtermproject\mysphere.cpp(22): warning C4305: '=': truncation from 'double' to 'float'
+d:\aica_sf\quarter14\portfolio\reel\games\collinsjustin_finalv4\collinsjustin_midtermproject\collinsjustin_midtermproject\mysphere.cpp(23): warning C4305: '=': truncation from 'double' to 'float'
+d:\aica_sf\quarter14\portfolio\reel\games\collinsjustin_finalv4\collinsjustin_midtermproject\collinsjustin_midtermproject\mysphere.cpp(29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\aica_sf\quarter14\portfolio\reel\games\collinsjustin_finalv4\collinsjustin_midtermproject\collinsjustin_midtermproject\mysphere.cpp(30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\aica_sf\quarter14\portfolio\reel\games\collinsjustin_finalv4\collinsjustin_midtermproject\collinsjustin_midtermproject\mysphere.cpp(31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\aica_sf\quarter14\portfolio\reel\games\collinsjustin_finalv4\collinsjustin_midtermproject\collinsjustin_midtermproject\mysphere.cpp(32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\aica_sf\quarter14\portfolio\reel\games\collinsjustin_finalv4\collinsjustin_midtermproject\collinsjustin_midtermproject\mysphere.cpp(15): warning C4101: 'z': unreferenced local variable
+d:\aica_sf\quarter14\portfolio\reel\games\collinsjustin_finalv4\collinsjustin_midtermproject\collinsjustin_midtermproject\mysphere.cpp(6): warning C4101: 'k': unreferenced local variable
+d:\aica_sf\quarter14\portfolio\reel\games\collinsjustin_finalv4\collinsjustin_midtermproject\collinsjustin_midtermproject\mysphere.cpp(10): warning C4101: 'cbeta': unreferenced local variable
+d:\aica_sf\quarter14\portfolio\reel\games\collinsjustin_finalv4\collinsjustin_midtermproject\collinsjustin_midtermproject\mysphere.cpp(15): warning C4101: 'y': unreferenced local variable
+d:\aica_sf\quarter14\portfolio\reel\games\collinsjustin_finalv4\collinsjustin_midtermproject\collinsjustin_midtermproject\mysphere.cpp(15): warning C4101: 'x': unreferenced local variable
+d:\aica_sf\quarter14\portfolio\reel\games\collinsjustin_finalv4\collinsjustin_midtermproject\collinsjustin_midtermproject\mysphere.cpp(6): warning C4101: 'j': unreferenced local variable
+d:\aica_sf\quarter14\portfolio\reel\games\collinsjustin_finalv4\collinsjustin_midtermproject\collinsjustin_midtermproject\mysphere.cpp(6): warning C4101: 'i': unreferenced local variable
+d:\aica_sf\quarter14\portfolio\reel\games\collinsjustin_finalv4\collinsjustin_midtermproject\collinsjustin_midtermproject\mysphere.cpp(10): warning C4101: 'calpha': unreferenced local variable
+d:\aica_sf\quarter14\portfolio\reel\games\collinsjustin_finalv4\collinsjustin_midtermproject\collinsjustin_midtermproject\mysphere.cpp(13): warning C4101: 'zbeta': unreferenced local variable
+  Main.cpp
+d:\aica_sf\quarter14\portfolio\reel\games\collinsjustin_finalv4\collinsjustin_midtermproject\collinsjustin_midtermproject\globals_light.h(3): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+d:\aica_sf\quarter14\portfolio\reel\games\collinsjustin_finalv4\collinsjustin_midtermproject\collinsjustin_midtermproject\globals_light.h(3): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+  Keyboard.cpp
+d:\aica_sf\quarter14\portfolio\reel\games\collinsjustin_finalv4\collinsjustin_midtermproject\collinsjustin_midtermproject\keyboard.cpp(36): warning C4305: '+=': truncation from 'double' to 'float'
+d:\aica_sf\quarter14\portfolio\reel\games\collinsjustin_finalv4\collinsjustin_midtermproject\collinsjustin_midtermproject\keyboard.cpp(42): warning C4305: '-=': truncation from 'double' to 'float'
+  Init.cpp
+  glm.cpp
+d:\aica_sf\quarter14\portfolio\reel\games\collinsjustin_finalv4\collinsjustin_midtermproject\collinsjustin_midtermproject\glm.cpp(188): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(552): note: see declaration of 'strdup'
+d:\aica_sf\quarter14\portfolio\reel\games\collinsjustin_finalv4\collinsjustin_midtermproject\collinsjustin_midtermproject\glm.cpp(235): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(552): note: see declaration of 'strdup'
+d:\aica_sf\quarter14\portfolio\reel\games\collinsjustin_finalv4\collinsjustin_midtermproject\collinsjustin_midtermproject\glm.cpp(304): warning C4305: '=': truncation from 'double' to 'GLfloat'
+d:\aica_sf\quarter14\portfolio\reel\games\collinsjustin_finalv4\collinsjustin_midtermproject\collinsjustin_midtermproject\glm.cpp(305): warning C4305: '=': truncation from 'double' to 'GLfloat'
+d:\aica_sf\quarter14\portfolio\reel\games\collinsjustin_finalv4\collinsjustin_midtermproject\collinsjustin_midtermproject\glm.cpp(306): warning C4305: '=': truncation from 'double' to 'GLfloat'
+d:\aica_sf\quarter14\portfolio\reel\games\collinsjustin_finalv4\collinsjustin_midtermproject\collinsjustin_midtermproject\glm.cpp(308): warning C4305: '=': truncation from 'double' to 'GLfloat'
+d:\aica_sf\quarter14\portfolio\reel\games\collinsjustin_finalv4\collinsjustin_midtermproject\collinsjustin_midtermproject\glm.cpp(309): warning C4305: '=': truncation from 'double' to 'GLfloat'
+d:\aica_sf\quarter14\portfolio\reel\games\collinsjustin_finalv4\collinsjustin_midtermproject\collinsjustin_midtermproject\glm.cpp(310): warning C4305: '=': truncation from 'double' to 'GLfloat'
+d:\aica_sf\quarter14\portfolio\reel\games\collinsjustin_finalv4\collinsjustin_midtermproject\collinsjustin_midtermproject\glm.cpp(263): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+d:\aica_sf\quarter14\portfolio\reel\games\collinsjustin_finalv4\collinsjustin_midtermproject\collinsjustin_midtermproject\glm.cpp(264): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+d:\aica_sf\quarter14\portfolio\reel\games\collinsjustin_finalv4\collinsjustin_midtermproject\collinsjustin_midtermproject\glm.cpp(267): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+d:\aica_sf\quarter14\portfolio\reel\games\collinsjustin_finalv4\collinsjustin_midtermproject\collinsjustin_midtermproject\glm.cpp(277): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+d:\aica_sf\quarter14\portfolio\reel\games\collinsjustin_finalv4\collinsjustin_midtermproject\collinsjustin_midtermproject\glm.cpp(286): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2254): note: see declaration of 'sscanf'
+d:\aica_sf\quarter14\portfolio\reel\games\collinsjustin_finalv4\collinsjustin_midtermproject\collinsjustin_midtermproject\glm.cpp(317): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(552): note: see declaration of 'strdup'
+d:\aica_sf\quarter14\portfolio\reel\games\collinsjustin_finalv4\collinsjustin_midtermproject\collinsjustin_midtermproject\glm.cpp(321): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+d:\aica_sf\quarter14\portfolio\reel\games\collinsjustin_finalv4\collinsjustin_midtermproject\collinsjustin_midtermproject\glm.cpp(329): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2254): note: see declaration of 'sscanf'
+d:\aica_sf\quarter14\portfolio\reel\games\collinsjustin_finalv4\collinsjustin_midtermproject\collinsjustin_midtermproject\glm.cpp(331): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(552): note: see declaration of 'strdup'
+d:\aica_sf\quarter14\portfolio\reel\games\collinsjustin_finalv4\collinsjustin_midtermproject\collinsjustin_midtermproject\glm.cpp(334): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+d:\aica_sf\quarter14\portfolio\reel\games\collinsjustin_finalv4\collinsjustin_midtermproject\collinsjustin_midtermproject\glm.cpp(342): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+d:\aica_sf\quarter14\portfolio\reel\games\collinsjustin_finalv4\collinsjustin_midtermproject\collinsjustin_midtermproject\glm.cpp(348): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+d:\aica_sf\quarter14\portfolio\reel\games\collinsjustin_finalv4\collinsjustin_midtermproject\collinsjustin_midtermproject\glm.cpp(354): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+d:\aica_sf\quarter14\portfolio\reel\games\collinsjustin_finalv4\collinsjustin_midtermproject\collinsjustin_midtermproject\glm.cpp(392): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+d:\aica_sf\quarter14\portfolio\reel\games\collinsjustin_finalv4\collinsjustin_midtermproject\collinsjustin_midtermproject\glm.cpp(393): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+d:\aica_sf\quarter14\portfolio\reel\games\collinsjustin_finalv4\collinsjustin_midtermproject\collinsjustin_midtermproject\glm.cpp(397): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+d:\aica_sf\quarter14\portfolio\reel\games\collinsjustin_finalv4\collinsjustin_midtermproject\collinsjustin_midtermproject\glm.cpp(453): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+d:\aica_sf\quarter14\portfolio\reel\games\collinsjustin_finalv4\collinsjustin_midtermproject\collinsjustin_midtermproject\glm.cpp(484): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2254): note: see declaration of 'sscanf'
+d:\aica_sf\quarter14\portfolio\reel\games\collinsjustin_finalv4\collinsjustin_midtermproject\collinsjustin_midtermproject\glm.cpp(485): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(552): note: see declaration of 'strdup'
+d:\aica_sf\quarter14\portfolio\reel\games\collinsjustin_finalv4\collinsjustin_midtermproject\collinsjustin_midtermproject\glm.cpp(504): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+d:\aica_sf\quarter14\portfolio\reel\games\collinsjustin_finalv4\collinsjustin_midtermproject\collinsjustin_midtermproject\glm.cpp(508): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2254): note: see declaration of 'sscanf'
+d:\aica_sf\quarter14\portfolio\reel\games\collinsjustin_finalv4\collinsjustin_midtermproject\collinsjustin_midtermproject\glm.cpp(509): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+d:\aica_sf\quarter14\portfolio\reel\games\collinsjustin_finalv4\collinsjustin_midtermproject\collinsjustin_midtermproject\glm.cpp(510): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+d:\aica_sf\quarter14\portfolio\reel\games\collinsjustin_finalv4\collinsjustin_midtermproject\collinsjustin_midtermproject\glm.cpp(513): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+d:\aica_sf\quarter14\portfolio\reel\games\collinsjustin_finalv4\collinsjustin_midtermproject\collinsjustin_midtermproject\glm.cpp(517): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2254): note: see declaration of 'sscanf'
+d:\aica_sf\quarter14\portfolio\reel\games\collinsjustin_finalv4\collinsjustin_midtermproject\collinsjustin_midtermproject\glm.cpp(519): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+d:\aica_sf\quarter14\portfolio\reel\games\collinsjustin_finalv4\collinsjustin_midtermproject\collinsjustin_midtermproject\glm.cpp(520): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+d:\aica_sf\quarter14\portfolio\reel\games\collinsjustin_finalv4\collinsjustin_midtermproject\collinsjustin_midtermproject\glm.cpp(523): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+d:\aica_sf\quarter14\portfolio\reel\games\collinsjustin_finalv4\collinsjustin_midtermproject\collinsjustin_midtermproject\glm.cpp(527): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2254): note: see declaration of 'sscanf'
+d:\aica_sf\quarter14\portfolio\reel\games\collinsjustin_finalv4\collinsjustin_midtermproject\collinsjustin_midtermproject\glm.cpp(529): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+d:\aica_sf\quarter14\portfolio\reel\games\collinsjustin_finalv4\collinsjustin_midtermproject\collinsjustin_midtermproject\glm.cpp(530): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+d:\aica_sf\quarter14\portfolio\reel\games\collinsjustin_finalv4\collinsjustin_midtermproject\collinsjustin_midtermproject\glm.cpp(533): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+d:\aica_sf\quarter14\portfolio\reel\games\collinsjustin_finalv4\collinsjustin_midtermproject\collinsjustin_midtermproject\glm.cpp(539): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+d:\aica_sf\quarter14\portfolio\reel\games\collinsjustin_finalv4\collinsjustin_midtermproject\collinsjustin_midtermproject\glm.cpp(540): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+d:\aica_sf\quarter14\portfolio\reel\games\collinsjustin_finalv4\collinsjustin_midtermproject\collinsjustin_midtermproject\glm.cpp(543): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+d:\aica_sf\quarter14\portfolio\reel\games\collinsjustin_finalv4\collinsjustin_midtermproject\collinsjustin_midtermproject\glm.cpp(604): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+d:\aica_sf\quarter14\portfolio\reel\games\collinsjustin_finalv4\collinsjustin_midtermproject\collinsjustin_midtermproject\glm.cpp(613): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+d:\aica_sf\quarter14\portfolio\reel\games\collinsjustin_finalv4\collinsjustin_midtermproject\collinsjustin_midtermproject\glm.cpp(620): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+d:\aica_sf\quarter14\portfolio\reel\games\collinsjustin_finalv4\collinsjustin_midtermproject\collinsjustin_midtermproject\glm.cpp(627): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+d:\aica_sf\quarter14\portfolio\reel\games\collinsjustin_finalv4\collinsjustin_midtermproject\collinsjustin_midtermproject\glm.cpp(636): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2254): note: see declaration of 'sscanf'
+d:\aica_sf\quarter14\portfolio\reel\games\collinsjustin_finalv4\collinsjustin_midtermproject\collinsjustin_midtermproject\glm.cpp(652): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+d:\aica_sf\quarter14\portfolio\reel\games\collinsjustin_finalv4\collinsjustin_midtermproject\collinsjustin_midtermproject\glm.cpp(656): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2254): note: see declaration of 'sscanf'
+d:\aica_sf\quarter14\portfolio\reel\games\collinsjustin_finalv4\collinsjustin_midtermproject\collinsjustin_midtermproject\glm.cpp(659): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+d:\aica_sf\quarter14\portfolio\reel\games\collinsjustin_finalv4\collinsjustin_midtermproject\collinsjustin_midtermproject\glm.cpp(662): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+d:\aica_sf\quarter14\portfolio\reel\games\collinsjustin_finalv4\collinsjustin_midtermproject\collinsjustin_midtermproject\glm.cpp(667): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+d:\aica_sf\quarter14\portfolio\reel\games\collinsjustin_finalv4\collinsjustin_midtermproject\collinsjustin_midtermproject\glm.cpp(677): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2254): note: see declaration of 'sscanf'
+d:\aica_sf\quarter14\portfolio\reel\games\collinsjustin_finalv4\collinsjustin_midtermproject\collinsjustin_midtermproject\glm.cpp(682): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+d:\aica_sf\quarter14\portfolio\reel\games\collinsjustin_finalv4\collinsjustin_midtermproject\collinsjustin_midtermproject\glm.cpp(686): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+d:\aica_sf\quarter14\portfolio\reel\games\collinsjustin_finalv4\collinsjustin_midtermproject\collinsjustin_midtermproject\glm.cpp(692): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+d:\aica_sf\quarter14\portfolio\reel\games\collinsjustin_finalv4\collinsjustin_midtermproject\collinsjustin_midtermproject\glm.cpp(705): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2254): note: see declaration of 'sscanf'
+d:\aica_sf\quarter14\portfolio\reel\games\collinsjustin_finalv4\collinsjustin_midtermproject\collinsjustin_midtermproject\glm.cpp(709): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+d:\aica_sf\quarter14\portfolio\reel\games\collinsjustin_finalv4\collinsjustin_midtermproject\collinsjustin_midtermproject\glm.cpp(712): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+d:\aica_sf\quarter14\portfolio\reel\games\collinsjustin_finalv4\collinsjustin_midtermproject\collinsjustin_midtermproject\glm.cpp(717): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+d:\aica_sf\quarter14\portfolio\reel\games\collinsjustin_finalv4\collinsjustin_midtermproject\collinsjustin_midtermproject\glm.cpp(729): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2254): note: see declaration of 'sscanf'
+d:\aica_sf\quarter14\portfolio\reel\games\collinsjustin_finalv4\collinsjustin_midtermproject\collinsjustin_midtermproject\glm.cpp(731): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+d:\aica_sf\quarter14\portfolio\reel\games\collinsjustin_finalv4\collinsjustin_midtermproject\collinsjustin_midtermproject\glm.cpp(733): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+d:\aica_sf\quarter14\portfolio\reel\games\collinsjustin_finalv4\collinsjustin_midtermproject\collinsjustin_midtermproject\glm.cpp(737): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+d:\aica_sf\quarter14\portfolio\reel\games\collinsjustin_finalv4\collinsjustin_midtermproject\collinsjustin_midtermproject\glm.cpp(812): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+d:\aica_sf\quarter14\portfolio\reel\games\collinsjustin_finalv4\collinsjustin_midtermproject\collinsjustin_midtermproject\glm.cpp(813): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+d:\aica_sf\quarter14\portfolio\reel\games\collinsjustin_finalv4\collinsjustin_midtermproject\collinsjustin_midtermproject\glm.cpp(814): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+d:\aica_sf\quarter14\portfolio\reel\games\collinsjustin_finalv4\collinsjustin_midtermproject\collinsjustin_midtermproject\glm.cpp(817): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+d:\aica_sf\quarter14\portfolio\reel\games\collinsjustin_finalv4\collinsjustin_midtermproject\collinsjustin_midtermproject\glm.cpp(1017): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+d:\aica_sf\quarter14\portfolio\reel\games\collinsjustin_finalv4\collinsjustin_midtermproject\collinsjustin_midtermproject\glm.cpp(1174): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+d:\aica_sf\quarter14\portfolio\reel\games\collinsjustin_finalv4\collinsjustin_midtermproject\collinsjustin_midtermproject\glm.cpp(1180): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+d:\aica_sf\quarter14\portfolio\reel\games\collinsjustin_finalv4\collinsjustin_midtermproject\collinsjustin_midtermproject\glm.cpp(1181): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+d:\aica_sf\quarter14\portfolio\reel\games\collinsjustin_finalv4\collinsjustin_midtermproject\collinsjustin_midtermproject\glm.cpp(1231): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+d:\aica_sf\quarter14\portfolio\reel\games\collinsjustin_finalv4\collinsjustin_midtermproject\collinsjustin_midtermproject\glm.cpp(1232): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+d:\aica_sf\quarter14\portfolio\reel\games\collinsjustin_finalv4\collinsjustin_midtermproject\collinsjustin_midtermproject\glm.cpp(1239): warning C4305: '=': truncation from 'double' to 'GLfloat'
+d:\aica_sf\quarter14\portfolio\reel\games\collinsjustin_finalv4\collinsjustin_midtermproject\collinsjustin_midtermproject\glm.cpp(1241): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+d:\aica_sf\quarter14\portfolio\reel\games\collinsjustin_finalv4\collinsjustin_midtermproject\collinsjustin_midtermproject\glm.cpp(1244): warning C4305: '=': truncation from 'double' to 'GLfloat'
+d:\aica_sf\quarter14\portfolio\reel\games\collinsjustin_finalv4\collinsjustin_midtermproject\collinsjustin_midtermproject\glm.cpp(1246): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+d:\aica_sf\quarter14\portfolio\reel\games\collinsjustin_finalv4\collinsjustin_midtermproject\collinsjustin_midtermproject\glm.cpp(1249): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+d:\aica_sf\quarter14\portfolio\reel\games\collinsjustin_finalv4\collinsjustin_midtermproject\collinsjustin_midtermproject\glm.cpp(1250): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+d:\aica_sf\quarter14\portfolio\reel\games\collinsjustin_finalv4\collinsjustin_midtermproject\collinsjustin_midtermproject\glm.cpp(1313): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+d:\aica_sf\quarter14\portfolio\reel\games\collinsjustin_finalv4\collinsjustin_midtermproject\collinsjustin_midtermproject\glm.cpp(1322): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(552): note: see declaration of 'strdup'
+d:\aica_sf\quarter14\portfolio\reel\games\collinsjustin_finalv4\collinsjustin_midtermproject\collinsjustin_midtermproject\glm.cpp(1434): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+d:\aica_sf\quarter14\portfolio\reel\games\collinsjustin_finalv4\collinsjustin_midtermproject\collinsjustin_midtermproject\glm.cpp(1796): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+d:\aica_sf\quarter14\portfolio\reel\games\collinsjustin_finalv4\collinsjustin_midtermproject\collinsjustin_midtermproject\glm.cpp(1817): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2254): note: see declaration of 'sscanf'
+d:\aica_sf\quarter14\portfolio\reel\games\collinsjustin_finalv4\collinsjustin_midtermproject\collinsjustin_midtermproject\glm.cpp(1819): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2254): note: see declaration of 'sscanf'
+d:\aica_sf\quarter14\portfolio\reel\games\collinsjustin_finalv4\collinsjustin_midtermproject\collinsjustin_midtermproject\glm.cpp(1821): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2254): note: see declaration of 'sscanf'
+  Display.cpp
+  Animate.cpp
+d:\aica_sf\quarter14\portfolio\reel\games\collinsjustin_finalv4\collinsjustin_midtermproject\collinsjustin_midtermproject\animate.cpp(9): warning C4305: '+=': truncation from 'double' to 'float'
+  Generating Code...
+  stb_image_aug.c
+d:\aica_sf\quarter14\portfolio\reel\games\collinsjustin_finalv4\collinsjustin_midtermproject\collinsjustin_midtermproject\stb_image_aug.c(134): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+d:\aica_sf\quarter14\portfolio\reel\games\collinsjustin_finalv4\collinsjustin_midtermproject\collinsjustin_midtermproject\stb_image_aug.c(208): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+d:\aica_sf\quarter14\portfolio\reel\games\collinsjustin_finalv4\collinsjustin_midtermproject\collinsjustin_midtermproject\stb_image_aug.c(260): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+d:\aica_sf\quarter14\portfolio\reel\games\collinsjustin_finalv4\collinsjustin_midtermproject\collinsjustin_midtermproject\stb_image_aug.c(1514): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+d:\aica_sf\quarter14\portfolio\reel\games\collinsjustin_finalv4\collinsjustin_midtermproject\collinsjustin_midtermproject\stb_image_aug.c(2351): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+d:\aica_sf\quarter14\portfolio\reel\games\collinsjustin_finalv4\collinsjustin_midtermproject\collinsjustin_midtermproject\stb_image_aug.c(2666): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+d:\aica_sf\quarter14\portfolio\reel\games\collinsjustin_finalv4\collinsjustin_midtermproject\collinsjustin_midtermproject\stb_image_aug.c(2952): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+d:\aica_sf\quarter14\portfolio\reel\games\collinsjustin_finalv4\collinsjustin_midtermproject\collinsjustin_midtermproject\stb_image_aug.c(3166): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+d:\aica_sf\quarter14\portfolio\reel\games\collinsjustin_finalv4\collinsjustin_midtermproject\collinsjustin_midtermproject\stb_image_aug.c(3505): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+d:\aica_sf\quarter14\portfolio\reel\games\collinsjustin_finalv4\collinsjustin_midtermproject\collinsjustin_midtermproject\stb_image_aug.c(3601): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+d:\aica_sf\quarter14\portfolio\reel\games\collinsjustin_finalv4\collinsjustin_midtermproject\collinsjustin_midtermproject\stbi_dds_aug_c.h(362): warning C4018: '>': signed/unsigned mismatch
+d:\aica_sf\quarter14\portfolio\reel\games\collinsjustin_finalv4\collinsjustin_midtermproject\collinsjustin_midtermproject\stbi_dds_aug_c.h(366): warning C4018: '>': signed/unsigned mismatch
+d:\aica_sf\quarter14\portfolio\reel\games\collinsjustin_finalv4\collinsjustin_midtermproject\collinsjustin_midtermproject\stbi_dds_aug_c.h(390): warning C4018: '<': signed/unsigned mismatch
+d:\aica_sf\quarter14\portfolio\reel\games\collinsjustin_finalv4\collinsjustin_midtermproject\collinsjustin_midtermproject\stbi_dds_aug_c.h(427): warning C4018: '<': signed/unsigned mismatch
+d:\aica_sf\quarter14\portfolio\reel\games\collinsjustin_finalv4\collinsjustin_midtermproject\collinsjustin_midtermproject\stbi_dds_aug_c.h(498): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+  SOIL.c
+d:\aica_sf\quarter14\portfolio\reel\games\collinsjustin_finalv4\collinsjustin_midtermproject\collinsjustin_midtermproject\soil.c(1719): warning C4018: '<=': signed/unsigned mismatch
+d:\aica_sf\quarter14\portfolio\reel\games\collinsjustin_finalv4\collinsjustin_midtermproject\collinsjustin_midtermproject\soil.c(1729): warning C4018: '<': signed/unsigned mismatch
+d:\aica_sf\quarter14\portfolio\reel\games\collinsjustin_finalv4\collinsjustin_midtermproject\collinsjustin_midtermproject\soil.c(1841): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+  image_helper.c
+d:\aica_sf\quarter14\portfolio\reel\games\collinsjustin_finalv4\collinsjustin_midtermproject\collinsjustin_midtermproject\image_helper.c(325): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\aica_sf\quarter14\portfolio\reel\games\collinsjustin_finalv4\collinsjustin_midtermproject\collinsjustin_midtermproject\image_helper.c(366): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\aica_sf\quarter14\portfolio\reel\games\collinsjustin_finalv4\collinsjustin_midtermproject\collinsjustin_midtermproject\image_helper.c(373): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\aica_sf\quarter14\portfolio\reel\games\collinsjustin_finalv4\collinsjustin_midtermproject\collinsjustin_midtermproject\image_helper.c(415): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\aica_sf\quarter14\portfolio\reel\games\collinsjustin_finalv4\collinsjustin_midtermproject\collinsjustin_midtermproject\image_helper.c(422): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  image_DXT.c
+d:\aica_sf\quarter14\portfolio\reel\games\collinsjustin_finalv4\collinsjustin_midtermproject\collinsjustin_midtermproject\image_dxt.c(92): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+  Generating Code...
+  CollinsJustin_MidtermProject.vcxproj -> D:\AiCa_SF\Quarter14\Portfolio\Reel\Games\CollinsJustin_Finalv4\CollinsJustin_MidtermProject\Debug\CollinsJustin_MidtermProject.exe
